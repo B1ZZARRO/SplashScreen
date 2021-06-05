@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_dg"
+        android:icon="@drawable/ic_baseline_data_usage_24"
+        android:title="Диаграмма"/>
+    <item
+        android:id="@+id/ic_mn"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="Подсчёты"/>
+</menu>
